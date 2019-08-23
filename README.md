@@ -1,4 +1,4 @@
-# great-software-engineering-blog-posts
+# Great Software Engineering Blog Posts
 A collection of great software engineering blog posts organized by topic
 
 ## Code Reviews
