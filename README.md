@@ -1,2 +1,2 @@
-# solid-software-engineering-blog-posts
-A collection of good software engineering blog posts organized by topic
+# great-software-engineering-blog-posts
+A collection of great software engineering blog posts organized by topic
