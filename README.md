@@ -1,5 +1,5 @@
-# Great Software Engineering Blog Posts
-A collection of great software engineering blog posts organized by topic
+# Awesome Software Engineering Blog Posts
+A collection of awesome software engineering blog posts organized by topic
 
 ## Code Reviews
 [Good Code Reviews, Better Code Reviews](https://blog.pragmaticengineer.com/good-code-reviews-better-code-reviews/)  
